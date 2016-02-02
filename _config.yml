@@ -1,7 +1,7 @@
 name: Soul City Worship
 favicon: null
-layout_spectrum: 0.46672144532203674
-typography_spectrum: 0.5387271319050342
+layout_spectrum: 0.24667
+typography_spectrum: 0.56445
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.28506595897488296
-  lightness: 0.13743410794995725
-  saturation: 0.1671075818594545
-  rhythmicContrast: 0.43833916867151856
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
