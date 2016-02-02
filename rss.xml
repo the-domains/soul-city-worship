@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Soul City Worship]]></title>
         <description><![CDATA[Soul City Worship]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/soul-city-worship/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 17:04:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 20:47:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/soul-city-worship/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Unleashing Worship]]></title>
-            <description><![CDATA[<article><h1>Unleashing Worship</h1><p>This past week Lead Pastor Jarrett Stevens interviewed Soul City's own worship leader Patrick Mayberry about worship in our church. </p></article>]]></description>
-            <link>undefinedunleashing-worship/index.html</link>
+            <description><![CDATA[<article><h1>Unleashing Worship</h1><p>This past week Lead Co-Pastor Jarrett Stevens interviewed Soul City's own worship leader Patrick Mayberry about worship in our church. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69b1c06394b7bc0ac362aaac0f90dab9dc488df9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/soul-city-worship/unleashing-worship/index.html</link>
             <guid isPermaLink="false">ca204127-8182-4723-9599-3a8554f1a067</guid>
-            <pubDate>Tue, 02 Feb 2016 17:04:37 GMT</pubDate>
+            <pubDate>Tue, 02 Feb 2016 20:47:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
