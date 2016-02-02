@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Part 4 of our "Unleashed" Series. Interview with Jarrett Stevens and Patrick Mayberry about worship.'
-datePublished: '2016-02-02T20:59:20.611Z'
+datePublished: '2016-02-02T20:59:20.603Z'
 dateModified: '2016-02-02T20:59:18.739Z'
 title: Unleashing Worship
 author: []
