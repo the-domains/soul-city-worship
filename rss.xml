@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Soul City Worship]]></title>
+        <description><![CDATA[Soul City Worship]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Feb 2016 17:04:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Unleashing Worship]]></title>
+            <description><![CDATA[<article><h1>Unleashing Worship</h1><p>This past week Lead Pastor Jarrett Stevens interviewed Soul City's own worship leader Patrick Mayberry about worship in our church. </p></article>]]></description>
+            <link>undefinedunleashing-worship/index.html</link>
+            <guid isPermaLink="false">ca204127-8182-4723-9599-3a8554f1a067</guid>
+            <pubDate>Tue, 02 Feb 2016 17:04:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
